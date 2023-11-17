@@ -1,6 +1,6 @@
 === Pythagorean Theorem Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: pythagorean theorem calculator, right triangle side calculation, a² + b² &#x3D; c² equation, hypotenuse calculation, right angle triangle calculation, law of cosines, algebraic proofs of pythagorean theorem, pythagoras&#x27; theorem applications, triangle side length determination, fundamental triangle relationships
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
