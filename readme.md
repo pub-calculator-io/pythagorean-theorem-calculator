@@ -1,4 +1,4 @@
-# Pythagorean Theorem Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Pythagorean Theorem Calculator Widget for WordPress
 
 Pythagorean theorem calculator finds the unknown side length of a right triangle. It also calculates angles, area, perimeter, and altitude to hypotenuse.
 
