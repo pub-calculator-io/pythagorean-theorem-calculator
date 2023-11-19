@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Pythagorean Theorem Calculator by www.calculator.io
+Plugin Name: CI Pythagorean theorem calculator
 Plugin URI: https://www.calculator.io/pythagorean-theorem-calculator/
 Description: Pythagorean theorem calculator finds the unknown side length of a right triangle. It also calculates angles, area, perimeter, and altitude to hypotenuse.
 Version: 1.0.0
