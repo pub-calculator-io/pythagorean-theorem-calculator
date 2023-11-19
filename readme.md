@@ -7,7 +7,7 @@ Pythagorean theorem calculator finds the unknown side length of a right triangle
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/pythagorean-theorem-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /pythagorean-theorem-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Pythagorean Theorem Calculator](https://www.calculator.io/pythagorean-theorem-calculator/ "Pythagorean Theorem Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
