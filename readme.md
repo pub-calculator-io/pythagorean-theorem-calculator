@@ -3,7 +3,6 @@
 Pythagorean theorem calculator finds the unknown side length of a right triangle. It also calculates angles, area, perimeter, and altitude to hypotenuse.
 
 ![Pythagorean Theorem Calculator Input Form](/assets/images/screenshot-1.png "Pythagorean Theorem Calculator Input Form")
-![Pythagorean Theorem Calculator Calculation Results](/assets/images/screenshot-2.png "Pythagorean Theorem Calculator Calculation Results")
 
 ## Installation
 

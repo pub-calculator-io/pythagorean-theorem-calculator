@@ -30,7 +30,7 @@
                 	<div class="input-wrapper row">
                 		<label class="input col">
                 			<input type="hidden" value="a" id="find"/>
-                			<p class="input__title">Find from a² + b² &#x3D; c²</p>
+                			<p class="input__title">Find from equation a² + b² &#x3D; c²</p>
                 			<button class="button-switcher button-switcher--active" type="button" onclick="switcher(this, 'find', 'finding')" value="a" id="find-a">
                 				<span class="button-switcher__text button-switcher__text--active">a</span>
                 			</button>
@@ -54,7 +54,7 @@
                 			<p class="input__title">a</p>
                 			<div class="input-field row">
                 				
-                				<input type="text" class="input-field__input" placeholder="" id="a" value="finding..." />
+                				<input type="text" class="input-field__input" placeholder="" id="a" value="???" />
                 				
                 			</div>
                 		</label>		<label class="input col find related-to-find-b ">
@@ -80,13 +80,16 @@
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Calculate</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
                 </div>
                 
                 
+                	<script type="text/javascript" src="./assets/js/lib/math.min.js" async></script>
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
@@ -101,11 +104,10 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
+        	<div class="col" id="error-list"></div>
         </div>        <span id="calculator_result"><div class="calculator-result col">
 	<p class="table-cell table-cell--dark table-cell--only-title">RESULT</p>
-	<p class="table-cell table-cell--only">
+	<p class="table-cell table-cell--only animate">
 		<span id="result">a = 3</span></br>
 		area A = <span id="result_area">6</span>
   </p>

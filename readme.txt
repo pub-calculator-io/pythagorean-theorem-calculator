@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Pythagorean The
 == Screenshots ==
 
 1. The Pythagorean Theorem Calculator Input Form.
-2. The Pythagorean Theorem Calculator Calculation Results.
 
 == Installation ==
 
